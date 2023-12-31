@@ -118,7 +118,7 @@ main section div.description button {
 main section.description_2 {
   display: block;
   transition: all 1s ease;
-  transform: translateX(-1000px);
+  transform: translateX(-1200px);
 }
 
 main section.description_2.active {
@@ -177,7 +177,7 @@ main .skills_container .skill_content {
 
 main section.description_3 {
   display: block;
-  transform: translateX(-1000px);
+  transform: translateX(-1200px);
 }
 
 main section.description_3.active {
