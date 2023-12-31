@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+## Design Inspiration
+- [Developer portfolio Design - Shanjai Raj](https://www.behance.net/gallery/97205839/Developer-Portfolio-Design/modules/561300323)
+
 ## Site
 - [https://portfolio-new-taupe.vercel.app/] Site
 
